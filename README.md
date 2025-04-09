@@ -31,7 +31,7 @@ I have changed the main branch to master branch.
    ```
 3. Create a `.env` file in the root directory and add your OpenWeatherMap API key:
    ```env
-   VITE_WEATHER_API_KEY=your_api_key_here
+   VITE_WEATHER_API_KEY=45dc3d3a50f5fca286cd4f4438abf2e5
    ```
 4. Start the development server:
    ```bash
