@@ -3,10 +3,6 @@ A responsive React.js app using OpenWeatherMap API for real-time weather. Search
 
 I have changed the main branch to master branch.
 
-# Weather Dashboard
-
-A modern weather dashboard application that provides real-time weather information and forecasts with a beautiful, responsive interface and dark mode support.
-
 ## Tech Stack
 
 - **Frontend Framework**: React.js with Vite for fast development and optimized builds
